@@ -1,5 +1,9 @@
 # Locust.io Docker Image
 
+[![](https://badge.imagelayers.io/christianbladescb/locustio:latest.svg)](https://imagelayers.io/?images=christianbladescb/locustio:latest 'Get your own badge on imagelayers.io')
+
+[![](http://dockeri.co/image/christianbladescb/locustio)](https://registry.hub.docker.com/u/christianbladescb/locustio)
+
 Use [locust.io](http://locust.io/) in docker, for great portability!
 
 ## Usage
