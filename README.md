@@ -29,5 +29,5 @@ If you want to run in master/slave mode, specify a different file to run, etc, y
 
 ```shell
 $ docker run -d --name master -P mylocust -f otherlocustfile.py --host=http://foo.com --master
-$ docker run -d --name slave --link master -f otherlocustfile.py --host=http://foo.com --slave --master-host=master 
+$ docker run -d --name slave --link master mylocust -f otherlocustfile.py --host=http://foo.com --slave --master-host=master 
 ```
