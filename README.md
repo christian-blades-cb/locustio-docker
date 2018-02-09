@@ -1,4 +1,5 @@
-# Locust.io Docker Image
+# Locust.io Docker Image [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](http://www.repostatus.org/badges/latest/inactive.svg)](http://www.repostatus.org/#inactive)
+
 
 [![](https://badge.imagelayers.io/christianbladescb/locustio:latest.svg)](https://imagelayers.io/?images=christianbladescb/locustio:latest 'Get your own badge on imagelayers.io')
 
